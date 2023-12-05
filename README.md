@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=Welcome%20to%20Myungju's%20Github🥰&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=Welcome%20to%20Myungju's%20Github🥰&fontSize=40&animation=twinkling)
 
 <div align="center">
   <h3>Tech Stack</h3>
@@ -20,7 +20,6 @@
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></div>
-<hr/>
 <br/>
 
 
